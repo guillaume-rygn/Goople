@@ -67,6 +67,10 @@ header {
     height: 280px;
 }
 
+.logo_container img{
+    height:92px;
+}
+
 #search{
     padding: 0 15px;
     margin: 23px auto;
