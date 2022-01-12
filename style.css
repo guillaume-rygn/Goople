@@ -131,6 +131,7 @@ input:focus{
 #content p {
     margin:auto;
     color:#70757a;
+    font-size:10px;
 }
 
 /* FOOTER */
