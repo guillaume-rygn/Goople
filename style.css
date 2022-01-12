@@ -129,7 +129,8 @@ input:focus{
 }
 
 #content p {
-    margin:auto;
+    display:flex;
+    justify-content:center;
     color:#70757a;
     font-size:10px;
 }
